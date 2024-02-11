@@ -2,7 +2,7 @@
 
 ## Context
 
-A [regression model](https://github.com/Abdul-AA/Life-Expectancy) using a simple decision tree was constructed to predict the life expectancy of countries. Analysis of the model's results revealed that a country's development status is one of the most significant factors influencing life expectancy. Intuitively, this relationship makes sense because a country's development status can affect various factors that may influence the quality of healthcare. Consequently, a causal machine learning model was developed to determine the average impact of a country's development status on its life expectancy in the form of its Average Treatment Effect (ATE) and to assess the impact of other features on the causal impact (treatment effect) of a country's development status on life expectancy.
+A [regression model](https://github.com/Abdul-AA/Life-Expectancy) using a simple decision tree was developed to predict the life expectancy of countries. Analysis of the model's results revealed that a country's development status is one of the most significant factors influencing its life expectancy. Intuitively, this relationship makes sense because a country's development status can affect various factors that may influence the quality of healthcare. Consequently, a causal machine learning model was developed to determine the average impact of a country's development status on its life expectancy in the form of its Average Treatment Effect (ATE) and to assess the impact of other features on the causal impact (treatment effect) of a country's development status on life expectancy.
 
 ## Hypothesis
 
